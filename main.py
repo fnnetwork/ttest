@@ -9,7 +9,7 @@ from telebot import *
 from GATEAU import Tele
 from colorama import Fore
 
-allowed_ids = [5057623667, 6449213918]
+allowed_ids = [6558098741, 6449213918]
 
 sto = {"stop": True}
 token = "7295999895:AAGo58OjcmoZhCoeQ74t17U4q5HxyTyN15E"
