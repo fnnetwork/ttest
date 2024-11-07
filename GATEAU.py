@@ -9,7 +9,6 @@ def Tele(cx):
     cvv = cx.split("|")[3]
     if "20" in ano:
         ano = ano.split("20")[1]
-	user = user_agent.generate_user_agent()
 			
 	r = requests.session()
 		
