@@ -10,7 +10,7 @@ def Tele(cx):
     if "20" in ano:
         ano = ano.split("20")[1]
 			
-	r = requests.session()
+	r=requests.session()
 		
 
 	def generate_random_account():
